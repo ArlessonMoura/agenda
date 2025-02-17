@@ -5,8 +5,8 @@
 Este é o backend do Sistema de Agendamento Telefônico, desenvolvido com **Java + Spring Boot** e **PostgreSQL**. Ele fornece uma API RESTful para gerenciar contatos, permitindo cadastro, edição, inativação e marcação de favoritos.
 
 ## Tecnologias Utilizadas
-- **Java 17**
-- **Spring Boot 3**
+- **Java 23**
+- **Spring Boot 3.4.2**
 - **Spring Web** (para criação da API REST)
 - **Spring Data JPA** (para interação com o banco de dados)
 - **PostgreSQL** (banco de dados relacional)
